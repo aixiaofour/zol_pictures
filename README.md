@@ -13,5 +13,9 @@
  ### 安装依赖模块/包
  ```
 pip install requirements.txt
-python main.py 
  ```
+ ### 运行
+ ```
+ python main.py 
+
+```
